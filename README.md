@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TTalvenH
--    Beginner coder, interested in all things code and games
+-    Beginner coder and student at programming school Hive helsinki, interested in all things code and games!
 -    Nice to meet you!
 
 <!---
