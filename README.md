@@ -2,6 +2,10 @@
 # About Me
 Hello! Currently studying at Hive Helsinki, learning to become professional programmer and a game developer.
 
+## Currently working on
+#### [FT_TRANSCENDENCE](https://github.com/TTalvenH/ft_transcendence "https://github.com/TTalvenH/ft_transcendence")
+Single-page application where the classic game of Pong is reimagined. 
+
 ## Game projects
 #### [Geo Diver X](https://github.com/TTalvenH/Geo-Diver-X "github.com/TTalvenhH/Geo-Diver-X")
 Unreal engine 5 game jam project made with group effort!
