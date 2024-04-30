@@ -14,10 +14,10 @@ Unreal engine 5 game jam project made with group effort!
 Unity 2D platformer game project made by a team of two.
 
 #### [Neon Pong](https://github.com/TTalvenH/NeonPong "https://github.com/TTalvenH/NeonPong")
-Simple Pong game created with javascript utilising three.js library.
+Simple Pong solo game project created with javascript utilising three.js library.
 
 #### [Knockoff!](https://github.com/TTalvenH/Knockoff "https://github.com/TTalvenH/Knockoff")
-Small game made with C++ utilising SFML library
+Small solo game project made with C++ utilising SFML library
 
 #### [Myyrä](https://github.com/TTalvenH/Myyra "github.com/TTalvenH/Myyra")
 Godot 2D endless runner, another game jam project and the first game i was part of creating!
