@@ -13,6 +13,9 @@ Unreal engine 5 game jam project made with group effort!
 #### [Rabbit Lunacy](https://github.com/Millisaur/Rabbit-Lunacy "github.com/Millisaur/Rabbit-Lunacy")
 Unity 2D platformer game project made by a team of two.
 
+#### [Neon Pong](https://github.com/TTalvenH/NeonPong "https://github.com/TTalvenH/NeonPong")
+Simple Pong game created with javascript utilising three.js library.
+
 #### [Knockoff!](https://github.com/TTalvenH/Knockoff "https://github.com/TTalvenH/Knockoff")
 Small game made with C++ utilising SFML library
 
